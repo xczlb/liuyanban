@@ -34,9 +34,9 @@ define('START_TIME', _time_now());
 
 //在需要时连接数据库
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PWD', 'localhost');
-define('DB_NAME', 'liuyanban');
+define('DB_USER', 'id20672823_root');
+define('DB_PWD', 'Xczlb@2023xyz');
+define('DB_NAME', 'id20672823_liuyanban');
 define('DB_CHARSET', 'UTF8');
 if(IS_CONN) {
 	//创建连接
